@@ -5,6 +5,7 @@
 	<key>fileTypes</key>
 	<array>
 		<string>shader</string>
+		<string>cginc</string>
 	</array>
 	<key>name</key>
 	<string>Unity Shader</string>
